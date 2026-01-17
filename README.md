@@ -1,7 +1,6 @@
 # 🧩 Codeforces – Introduction to C++ (Basic Problems)
 
-This repository contains solutions to **basic C++ problems** from the Codeforces group contest **Introduction to C++**.
-These problems focus on building strong fundamentals in **C++ syntax, input/output, conditionals, loops, and arithmetic operations**.
+This repository contains solutions to **basic C++ problems** from the 100x dev assignment-1
 
 ---
 
