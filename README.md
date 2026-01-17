@@ -327,23 +327,4 @@ Max = Y
 
 ---
 
-## 🛠️ How to Run
 
-```bash
-g++ solution.cpp -o solution
-./solution
-```
-
----
-
-## 🎯 Purpose of This Repository
-
-* Strengthen **C++ fundamentals**
-* Practice **basic problem-solving**
-* Prepare for **competitive programming and interviews**
-
----
-
-## 👤 Author
-
-**Mukesh** 🚀
